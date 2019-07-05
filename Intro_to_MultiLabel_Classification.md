@@ -21,9 +21,9 @@ For example, a fruit can be either an apple or a pear but not both at the same t
 
 Our task is to predict the tags for stackoverflow posts. 
 
-The dataset is provided by natural language processing Coursera course and its resources are available here [github link](https://github.com/hse-aml/natural-language-processing). 
+The dataset is provided by [Natural Language Processing](https://www.coursera.org/learn/language-processing) Coursera course and its resources are available here [github](https://github.com/hse-aml/natural-language-processing). 
 
-Complete project can be implemented using the following IPynb Notebook. (Originally run on Google Colab.)
+Complete project can be implemented using the IPynb Notebook provided in this repository. (Originally run on Google Colab.)
 
 #### Dataset
 
